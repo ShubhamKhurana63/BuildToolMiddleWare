@@ -1,0 +1,40 @@
+06-01-2018 18:41:40.022 [main] INFO 
+				com.buildtool.app.Application.logStarting - Starting Application on GURWUNI117622 with PID 34608 (started by gur47529 in C:\Users\gur47529\Desktop\demo (1)\demo)
+06-01-2018 18:41:40.027 [main] DEBUG
+				com.buildtool.app.Application.logStarting - Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+06-01-2018 18:41:40.027 [main] INFO 
+				com.buildtool.app.Application.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+06-01-2018 18:41:44.133 [main] INFO 
+				com.buildtool.app.Application.logStarted - Started Application in 4.376 seconds (JVM running for 4.957)
+06-01-2018 18:41:50.324 [http-nio-8787-exec-2] DEBUG
+				c.b.a.c.ConfigurationController.getConfig - doStuff needed to debug - {}
+06-01-2018 18:41:50.324 [http-nio-8787-exec-2] INFO 
+				c.b.a.c.ConfigurationController.getConfig - doStuff took input - {}
+06-01-2018 18:41:50.324 [http-nio-8787-exec-2] WARN 
+				c.b.a.c.ConfigurationController.getConfig - doStuff needed to warn - {}
+06-01-2018 18:41:50.325 [http-nio-8787-exec-2] ERROR
+				c.b.a.c.ConfigurationController.getConfig - doStuff encountered an error with value - {}
+06-01-2018 18:42:16.067 [http-nio-8787-exec-3] DEBUG
+				c.b.a.c.ConfigurationController.getConfig - doStuff needed to debug - {}
+06-01-2018 18:42:16.067 [http-nio-8787-exec-3] INFO 
+				c.b.a.c.ConfigurationController.getConfig - doStuff took input - {}
+06-01-2018 18:42:16.067 [http-nio-8787-exec-3] WARN 
+				c.b.a.c.ConfigurationController.getConfig - doStuff needed to warn - {}
+06-01-2018 18:42:16.067 [http-nio-8787-exec-3] ERROR
+				c.b.a.c.ConfigurationController.getConfig - doStuff encountered an error with value - {}
+06-01-2018 18:42:54.760 [main] INFO 
+				com.buildtool.app.Application.logStarting - Starting Application on GURWUNI117622 with PID 30268 (started by gur47529 in C:\Users\gur47529\Desktop\demo (1)\demo)
+06-01-2018 18:42:54.765 [main] DEBUG
+				com.buildtool.app.Application.logStarting - Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+06-01-2018 18:42:54.765 [main] INFO 
+				com.buildtool.app.Application.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+06-01-2018 18:42:58.842 [main] INFO 
+				com.buildtool.app.Application.logStarted - Started Application in 4.349 seconds (JVM running for 4.929)
+06-01-2018 18:43:10.285 [http-nio-8787-exec-3] DEBUG
+				c.b.a.c.ConfigurationController.getConfig - doStuff needed to debug - {}
+06-01-2018 18:43:10.285 [http-nio-8787-exec-3] INFO 
+				c.b.a.c.ConfigurationController.getConfig - doStuff took input - {}
+06-01-2018 18:43:10.285 [http-nio-8787-exec-3] WARN 
+				c.b.a.c.ConfigurationController.getConfig - doStuff needed to warn - {}
+06-01-2018 18:43:10.286 [http-nio-8787-exec-3] ERROR
+				c.b.a.c.ConfigurationController.getConfig - doStuff encountered an error with value - {}
